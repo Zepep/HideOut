@@ -16,7 +16,7 @@
 
 ## ✨ À propos
 
-HideOut est un projet personnel basé sur HeliosLauncher, entièrement adapté à l’univers **Cobblemon** via le modpack **CobbleVerse**. Il facilite l’accès au serveur **HideOut Saga** avec :
+HideOut est un projet personnel entièrement adapté à l’univers **Cobblemon** via le modpack **CobbleVerse**. Il facilite l’accès au serveur **HideOut** avec :
 
 - Configuration automatique
 - Installation des mods
