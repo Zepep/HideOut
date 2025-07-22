@@ -24,11 +24,6 @@ HideOut est un projet personnel basé sur HeliosLauncher, entièrement adapté �
 
 ---
 
-![Screenshot 1](https://i.imgur.com/6o7SmH6.png)
-![Screenshot 2](https://i.imgur.com/x3B34n1.png)
-
----
-
 ## 🔧 Fonctionnalités principales
 
 * 🔐 Gestion complète des comptes (Microsoft + Mojang).
