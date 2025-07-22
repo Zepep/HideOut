@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://img.shields.io/github/actions/workflow/status/dscalzi/HeliosLauncher/build.yml?branch=master&style=for-the-badge" alt="gh actions">
   <img src="https://img.shields.io/github/downloads/dscalzi/HeliosLauncher/total.svg?style=for-the-badge" alt="downloads">
-  <img src="https://forthebadge.com/images/badges/made-with-love.svg" height="28px" alt="made-with-love">
 </p>
 
 <p align="center"><strong>HideOut</strong> est un launcher Minecraft personnalisé, pensé et développé en solo, pour offrir une expérience fluide et immersive sur le serveur CobbleVerse.</p>
