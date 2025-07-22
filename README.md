@@ -37,11 +37,6 @@ HideOut est un projet personnel basé sur HeliosLauncher, entièrement adapté �
 
 ---
 
-## 📦 Téléchargements
-
-Vous pouvez télécharger la dernière version ici :  
-👉 [Releases GitHub](https://github.com/dscalzi/HeliosLauncher/releases)
-
 ### Plateformes supportées
 
 | Plateforme    | Fichier                                     |
@@ -50,12 +45,3 @@ Vous pouvez télécharger la dernière version ici :
 | macOS x64     | `HideOut-Launcher-setup-VERSION-x64.dmg`    |
 | macOS arm64   | `HideOut-Launcher-setup-VERSION-arm64.dmg`  |
 | Linux x64     | `HideOut-Launcher-setup-VERSION.AppImage`   |
-
----
-
-## 🖥️ Console
-
-Pour ouvrir la console :
-
-```txt
-Ctrl + Maj + I
