@@ -5,10 +5,11 @@
 <em><h5 align="center">Launcher Minecraft personnalisé pour CobbleVerse</h5></em>
 
 <p align="center">
-  <a href="https://discord.gg/letemple">
-    <img src="https://img.shields.io/discord/123456789012345678?label=Rejoindre%20le%20Serveur&logo=discord&style=for-the-badge&color=7289DA" alt="Rejoindre le Discord">
+  <a href="https://discord.gg/letemple" target="_blank">
+    <img src="https://img.shields.io/badge/Rejoindre%20le%20Serveur-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
+
 
 
 </p>
